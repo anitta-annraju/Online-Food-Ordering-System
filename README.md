@@ -8,5 +8,5 @@ Here, a mini-project on “ONLINE FOOD ORDERING SYSTEM, ” in this world of gro
  - SCOPE  
     The  scope  of  the  business  rules  document  is  the  online  system  including  the management of orders, management of menu, and the customer online ordering system.  The scope does not include the internal operations of each individual restaurant. The study focuses on the appraisal of the documentation for online restaurant/outlet management through a common base website 
     
- -  Objective 
-    One  of  the  main  objectives  of  the  food  ordering  system  is  to  ensure  customer satisfaction and build a repeat-customer base. Other goals of this objective include enticing regular customers to use our website as well as introducing the website to new customers. There are several ways to attain this objective such as intensive marketing campaigns using e-mail and social networking pages. Other marketing strategies include monthly or weekly specials, coupons, and gift card promotions.  
+ -  OBJECTIVE
+     One  of  the  main  objectives  of  the  food  ordering  system  is  to  ensure  customer satisfaction and build a repeat-customer base. Other goals of this objective include enticing regular customers to use our website as well as introducing the website to new customers. There are several ways to attain this objective such as intensive marketing campaigns using e-mail and social networking pages. Other marketing strategies include monthly or weekly specials, coupons, and gift card promotions.  
